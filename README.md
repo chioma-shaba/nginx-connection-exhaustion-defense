@@ -143,10 +143,5 @@ From a security perspective, the process was:
 
 ## Key Takeaway
 
-This project strengthened my ability to move beyond identifying a security issue and into **evaluating risk, implementing a mitigation, and validating whether the control actually works**.
-
-That distinction matters.
-
-Cybersecurity is not only about detecting attacks.
-
-It is about making informed decisions, applying the right controls, measuring the result, and improving resilience.
+Control implementation is only the beginning. Effective cybersecurity governance requires measurable evidence that controls are operating as intended and reducing risk.
+This analysis connects technical mitigation with control effectiveness, assurance, and operational resilience.ce.
